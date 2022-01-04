@@ -84,3 +84,8 @@ INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Bob', 'bob@gmail.com
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Alex', 'alex@gmail.com');
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Ana', 'ana@gmail.com');
 ```
+
+<h3>👨‍💻 Tecnologias utilizadas</h3>
+<div>
+<img src="./img/download.png" title="Spring" width="70" height="70"><img src="./img/github.png" title="GitHub" width="70" height="70"><img src="./img/java.png" title="Java" width="70" height="70"><img src="./img/postman.png" title="Postman" width="70" height="70">
+</div>
